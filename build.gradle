@@ -3,7 +3,7 @@ plugins {
     id 'application'
 }
 
-group = 'dx.smartcard'
+group = 'idpass.smartcard'
 version = '1.0-SNAPSHOT'
 
 repositories {
